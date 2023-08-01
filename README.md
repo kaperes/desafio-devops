@@ -56,7 +56,7 @@ Na **Let’s Code by Ada** todos os serviços serão **conteinerizados** e **dis
 
 ## Back-end e Front-end
 
-Existem duas pastas, **backend** e **frontend**, nelas você irá encontrar o subdiretório **app** e um **dockerfile** que constrói a imagem da aplicação, seu objetivo é:
+Existem duas pastas, **backend** e **frontend**, nelas você irá encontrar o subdiretório **app**, seu objetivo é:
 
 - construir a imagem docker da aplicação;
 - criar os manifestos de recursos kubernetes para rodar a aplicação *(deployments, services, ingresses, configmap e qualquer outro que você considere necessário)*;
